@@ -1,2 +1,2 @@
 # day6
-insta login page
+login page using forms
